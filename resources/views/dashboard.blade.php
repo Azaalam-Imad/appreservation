@@ -45,7 +45,7 @@
 
                         <button type="submit" id="submitBtn">Submit</button>
                     </form>
-                    <div id='calendar'></div>
+                    <div class="h-[92vh]" id='calendar'></div>
             <p id="selectedDate" class="mt-3 text-green-700 dark:text-green-400 font-medium"></p>
         </div>
 

@@ -22,7 +22,7 @@
                 <button id="updateBtnAdmin" type="submit">Submit</button>
             </form>
 
-            <div id="calendarAdmin"></div>
+            <div class="h-[92vh]" id="calendarAdmin"></div>
 
             <h3 class="text-xl font-semibold mb-4">Liste des utilisateurs et leurs séances</h3>
             <table class="w-full border-collapse border border-gray-300 dark:border-gray-700">
